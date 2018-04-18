@@ -7,3 +7,5 @@ Augmented Edition (tentatively named "Relativity") is a mobile application desig
 ### Design Ideas
 - at its most basic level or for prototyping, QR codes could be added to pages and bring up a relevant web page with the appropriate notes / apparatus
 - eventually, object recognition (perhaps Tensorflow Object Detection API) or automated OCR could be used to scan the pages without the need for a QR code or unique identifier
+
+4/17/2018 Decided to make this repo a prototype QR-based project. Object/image recognition to scan pre-existing book pages will be incorporated in a later and separate repo
