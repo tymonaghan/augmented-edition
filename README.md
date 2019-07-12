@@ -1,8 +1,10 @@
 # augmented-edition
 a companion application for reading books
 
+*note: Augmented Edition has yet to make it out of the idea-phase, so there is no code here, just ideas and plans...
+
 ### Overview
-Augmented Edition (tentatively named "Relativity") is a mobile application designed to be used while reading a book. Endnotes, footnotes, commentary, variants and textual notes (for a scholarly edition) can be accessed on the mobile device just by pointing the device's camera at the relevant page of the book, obviating the need to thumb back and forth through different sections of the book while reading.
+Augmented Edition is a mobile application designed to be used while reading a book. Endnotes, footnotes, commentary, variants and textual notes (for a scholarly edition) can be accessed on the mobile device just by pointing the device's camera at the relevant page of the book, obviating the need to thumb back and forth through different sections of the book while reading.
 
 ### Rationale
 The concept of augmented edition can be traced to two separate stems:
